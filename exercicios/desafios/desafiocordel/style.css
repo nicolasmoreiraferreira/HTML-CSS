@@ -49,7 +49,6 @@ main {
   padding-bottom: 50px;
   padding-top: 50px;
   font-weight: bold;
-  
 }
 
 :root {
@@ -73,16 +72,15 @@ div.img {
   padding-top: 50px;
   padding-left: 40px;
   padding-bottom: 100px;
-  
 }
 
 div.safe {
-  max-width: flex;
+  max-width: 40%;
+  max-height: 40%;
   background-color: rgba(0, 0, 0, 0.432);
   padding: 20px;
   max-width: 40%;
   margin-right: auto;
-  
 }
 
 div.dois {
